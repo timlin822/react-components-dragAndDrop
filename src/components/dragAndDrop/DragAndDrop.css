@@ -1,0 +1,23 @@
+.drag-and-drop{
+    width: 50%;
+    margin: 0 auto;
+}
+.drag-and-drop-title{
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.drag-and-drop-item{
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: 500;
+    color: #151515;
+    background-color: #fff;
+    padding: 20px 30px;
+    margin: 15px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
